@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @easylau
+- 👀 I’m interested in C, C++, Python Programming
+- 🌱 I’m currently trying to use the knowledge I've learned to create more value for people
+- 💞️ I’m looking to collaborate on anyone who is willing to cooperate with me
+- 📫 My bilibili website is https://space.bilibili.com/630267313
+- 📫 My csdn website is https://blog.csdn.net/qq_45443898
